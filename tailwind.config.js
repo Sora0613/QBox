@@ -17,5 +17,11 @@ export default {
         },
     },
 
+    purge: [
+        './resources/**/*.blade.php',
+        './resources/**/*.js',
+        './resources/**/*.vue',
+    ],
+
     plugins: [forms],
 };
