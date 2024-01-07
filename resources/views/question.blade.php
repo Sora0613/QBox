@@ -33,7 +33,7 @@
                     <!-- 質問サンプル3 -->
                     <div class="border p-4 mb-6 rounded-md">
                         <h3 class="text-lg font-semibold">Question 3</h3>
-                        <p>質問〜〜〜〜〜〜〜〜</p>
+                        <p>質問〜〜〜〜〜〜〜〜!</p>
                         <div class="mt-2">
                             <x-reply-button class="mr-2">Reply</x-reply-button>
                             <x-delete-button class="bg-red-500">Delete</x-delete-button>
